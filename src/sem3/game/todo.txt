@@ -1,0 +1,20 @@
+1. Create the basic stuff to run a game \/
+2. Create a Tile and Sprite rendering system along with Level system \/
+3. Create Entity framework \/
+4. Create player physics and collision \/
+5. Create UI \/
+6. Create Attack, Charge Attack and Wall Jump Mechanics \/
+7. Create collision of projectiles with tiles \/
+8. Create animation method \/
+9. Create enemy class \/
+10. Create Enemy Collision \/
+11. Implement Proper Directioning \/
+12. Create basic enemy AI/Framework \/
+13. Clean up the code \/
+14. Create Enemy Spawning system \/
+15. Creating Life and Death state X
+16. Making sprite/tiles \
+17. Making a level \/
+18. Finishing the game \
+
+Bonus 1. Add more to enemy AI X
